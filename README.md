@@ -1,5 +1,7 @@
 # react-simple-radio-group
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/EmaSuriano/react-simple-radio-group.svg)](https://greenkeeper.io/)
+
 > Radio Group Component for React easy to configure and compose
 
 [![NPM](https://img.shields.io/npm/v/react-simple-radio-group.svg)](https://www.npmjs.com/package/react-simple-radio-group) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
